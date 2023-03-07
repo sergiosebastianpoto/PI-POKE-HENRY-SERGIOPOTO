@@ -1,4 +1,6 @@
+import React from "react";
 import SearchBar from "./SearchBar/SearchBar.js";
+import Card from "./Card/Card.js";
 
 export default function Home() {
   return (
@@ -7,6 +9,10 @@ export default function Home() {
 
       <div>
         <SearchBar />
+      </div>
+
+      <div>
+        <Card />
       </div>
     </div>
   );

@@ -1,12 +1,12 @@
 .card{
-        background-color: white;
-        width: 326px;
-        border-radius: 16px;
-        
-        box-shadow: 2px 2px 4px rgba(242, 242, 242, 0.7);
-        
+background-color: white;
+width: 326px;
+height: 450px;
+border-radius: 16px;
+box-shadow: 2px 2px 4px rgba(242, 242, 242, 0.7);
+
             display: grid;
-            grid-template-columns: 4fr 4fr 4fr;
+            grid-template-columns: 4fr 4fr 4fr ;
             grid-gap: 16px;
           }
         
@@ -15,6 +15,7 @@
 .card__body{
     margin: 30px;
     padding: 20px;
+    
 }
 
 .card__image{

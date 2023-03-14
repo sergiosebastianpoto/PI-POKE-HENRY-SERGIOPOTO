@@ -23,6 +23,7 @@ export default function Home() {
         "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
       type: "grass",
     },
+
     {
       name: "Charmander",
       image:
